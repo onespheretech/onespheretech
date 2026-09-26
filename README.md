@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/onesphere-logo.png" width="180" alt="OneSphere Tech">
 
 # OneSphere Tech
 
