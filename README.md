@@ -8,9 +8,8 @@
 
 <br>
 
-**GitHub:** https://github.com/OneSphere-Tech
-**LinkedIn:** https://www.linkedin.com/
-**Facebook:** https://www.facebook.com/
+**GitHub:** https://github.com/onespheretech
+
 
 <br><br>
 
