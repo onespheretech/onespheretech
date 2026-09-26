@@ -1,73 +1,90 @@
 <div align="center">
 
-ONESPHERE TECH
+# OneSphere Tech
 
-YOUR BUSINESS • OUR TECHNOLOGY
+### `YOUR BUSINESS  •  OUR TECHNOLOGY`
 
-Digital solutions for businesses that want to build, automate, market, and scale.
+**Web & App Development** • **AI & Business Automation** • **Digital Marketing & Growth** • **Custom Business Solutions** • **Technology & IT Consulting**
 
 <br>
 
-WEB DEVELOPMENT · AI & AUTOMATION · DIGITAL MARKETING · BUSINESS SOLUTIONS · IT SUPPORT
+**GitHub:** https://github.com/OneSphere-Tech
+**LinkedIn:** https://www.linkedin.com/
+**Facebook:** https://www.facebook.com/
+
+<br><br>
+
+**We build digital systems that help businesses launch, automate, market, and scale.**
 
 </div>
 
-◈ WHO WE ARE
+---
 
-OneSphere Tech is a technology and business solutions company focused on turning business problems into practical digital systems.
+# ◈ The OneSphere Vision
 
-We work across software development, AI, automation, digital marketing, and IT to help businesses create a stronger digital foundation.
+> **OneSphere Tech is a technology and business solutions company built around one simple idea:**
 
-One problem. One strategy. One technology partner.
+> businesses should not need five different partners to solve five different digital problems.
 
-⚡ OUR SERVICES
+We bring **software development + AI + automation + marketing + IT solutions** together under one technology partner.
+
+```text
+                 ┌──────────────────────────────┐
+                 │          BUSINESS             │
+                 │       IDEA / PROBLEM          │
+                 └──────────────┬───────────────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │     ONESPHERE TECH     │
+                    └───────────┬───────────┘
+                                │
+        ┌──────────────┬────────┼────────┬──────────────┐
+        ▼              ▼        ▼        ▼              ▼
+     BUILD           AI       AUTOMATE  MARKET        SUPPORT
+        │              │        │        │              │
+        └──────────────┴────────┼────────┴──────────────┘
+                                ▼
+                     ┌────────────────────┐
+                     │  BUSINESS GROWTH   │
+                     └────────────────────┘
+```
+
+---
+
+# ⚡ What We Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🌐 Web & App Development
+### 🌐 Web & App Development
 
-Modern, scalable digital products built around real business requirements.
+Modern digital products designed around the actual workflow of a business.
 
-Business & corporate websites
-
-Custom web applications
-
-E-commerce platforms
-
-SaaS products
-
-Admin dashboards
-
-Customer portals
-
-Booking & management systems
-
-API integrations
+* Corporate websites
+* SaaS platforms
+* E-commerce
+* Custom web applications
+* Admin dashboards
+* Customer portals
+* Booking systems
+* Internal business tools
 
 </td>
 <td width="50%" valign="top">
 
-🤖 AI & Business Automation
+### 🤖 AI & Automation
 
-Connect AI and automation to everyday business operations.
+Turn repetitive work into automated systems.
 
-AI assistants
-
-AI-powered business tools
-
-Workflow automation
-
-Lead automation
-
-Chatbots
-
-API automation
-
-Data processing
-
-CRM & communication workflows
+* AI assistants
+* Business workflow automation
+* Lead automation
+* API integrations
+* CRM workflows
+* Chatbots
+* Document/data automation
+* AI-powered internal tools
 
 </td>
 </tr>
@@ -75,290 +92,260 @@ CRM & communication workflows
 <tr>
 <td width="50%" valign="top">
 
-📈 Digital Marketing
+### 📈 Digital Marketing
 
-Technology-driven marketing systems designed to build visibility and generate leads.
+Build visibility, acquire customers, and connect marketing with technology.
 
-Facebook & Instagram marketing
-
-Meta advertising
-
-Lead generation
-
-Landing pages
-
-Conversion tracking
-
-Campaign setup
-
-Analytics
-
-Marketing automation
+* Meta advertising
+* Social media strategy
+* Lead generation
+* Landing pages
+* Conversion tracking
+* Campaign systems
+* Analytics
+* Marketing automation
 
 </td>
 <td width="50%" valign="top">
 
-🛠️ Business & IT Solutions
+### 🛠️ Business & IT Solutions
 
-Practical technology support for businesses at every stage.
+Technology support beyond just building a website.
 
-Business process digitization
-
-Custom business software
-
-IT support
-
-Cloud deployment
-
-Database solutions
-
-System integration
-
-Technical consulting
-
-Digital transformation
+* Business process digitization
+* IT support
+* Cloud deployment
+* System integrations
+* Technical consulting
+* Database solutions
+* Digital transformation
+* Ongoing maintenance
 
 </td>
 </tr>
 </table>
 
-🧠 HOW WE THINK
+---
 
-                  BUSINESS PROBLEM
-                         │
-                         ▼
-                ┌─────────────────┐
-                │     DISCOVER    │
-                └────────┬────────┘
-                         ▼
-                ┌─────────────────┐
-                │     STRATEGY    │
-                └────────┬────────┘
-                         ▼
-                ┌─────────────────┐
-                │      BUILD      │
-                └────────┬────────┘
-                         ▼
-                ┌─────────────────┐
-                │   AUTOMATION    │
-                └────────┬────────┘
-                         ▼
-                ┌─────────────────┐
-                │     LAUNCH      │
-                └────────┬────────┘
-                         ▼
-                ┌─────────────────┐
-                │      SCALE      │
-                └─────────────────┘
-
-We don't believe every business needs complicated technology.
-
-We believe every business needs the right technology for the right problem.
-
-🚀 WHAT WE CAN BUILD
-
-Solution
-
-Business Purpose
-
-🏢 Business Management Systems
-
-Digitize daily operations
-
-🛒 E-commerce Platforms
-
-Sell and manage products online
-
-📊 Admin Dashboards
-
-Monitor operations and business data
-
-👥 Customer Management Systems
-
-Organize customer information and workflows
-
-📅 Booking Systems
-
-Manage appointments and reservations
-
-📦 Inventory Systems
-
-Track products and stock
-
-🎓 Education Platforms
-
-Manage students, courses and learning
-
-🤖 AI Assistants
-
-Automate communication and repetitive tasks
-
-🔄 Workflow Automation
-
-Reduce manual business processes
-
-📣 Lead Generation Systems
-
-Connect marketing with sales
-
-🔗 API Integrations
-
-Connect business tools and platforms
-
-📈 Analytics Systems
-
-Turn data into useful business insights
-
-🧩 TECHNOLOGY
-
-Frontend
-
-Next.js · React · JavaScript · TypeScript · HTML · CSS · Tailwind CSS
-
-Backend & Data
-
-Node.js · Express.js · MongoDB · MySQL · PostgreSQL · REST APIs
-
-AI & Automation
-
-AI Solutions · AI Agents · Workflow Automation · API Integration · Business Automation
-
-Cloud & Tools
-
-Vercel · GitHub · Git · Docker · Postman · Figma
-
-🛰️ OUR DELIVERY MODEL
-
-01 — DISCOVER
-
-Understand the business, users, goals, and actual problem.
-
-02 — DESIGN
-
-Create a practical technology and business strategy.
-
-03 — BUILD
-
-Develop the website, application, system, or automation.
-
-04 — CONNECT
-
-Integrate AI, APIs, databases, marketing platforms, and existing tools.
-
-05 — LAUNCH
-
-Deploy, test, measure, and optimize.
-
-06 — SCALE
-
-Continue improving the system as the business grows.
-
-💼 WHO WE WORK WITH
-
-STARTUPS       →  MVPs, websites, SaaS & launch systems
-
-SMALL BUSINESS →  Digitization, automation & online growth
-
-SMEs            →  Custom software, dashboards & integrations
-
-ENTERPRISES     →  Business systems & technology solutions
-
-CREATORS        →  Websites, portfolios & digital platforms
-
-PROFESSIONALS   →  Personal brands, booking & business systems
-
-🔥 OUR CORE PRINCIPLES
-
-Principle
-
-Meaning
-
-SIMPLE
-
-Technology should be easy to understand and use
-
-SCALABLE
-
-Solutions should grow with the business
-
-AUTOMATED
-
-Repetitive work should be reduced
-
-CONNECTED
-
-Business tools should work together
-
-MEASURABLE
-
-Results should be trackable
-
-PRACTICAL
-
-Technology must solve a real problem
-
-🌍 FROM IDEA TO DIGITAL SYSTEM
-
-IDEA
- │
- ├──► WEBSITE
- │
- ├──► WEB APPLICATION
- │
- ├──► E-COMMERCE
- │
- ├──► BUSINESS SOFTWARE
- │
- ├──► AI AUTOMATION
- │
- ├──► DIGITAL MARKETING
- │
- └──► IT & TECHNOLOGY SUPPORT
-             │
-             ▼
-      DIGITAL BUSINESS
-             │
-             ▼
-      GROWTH & SCALE
-
-🔭 WHAT WE'RE BUILDING TOWARD
-
-We are exploring the intersection of:
-
-AI + SOFTWARE + AUTOMATION + MARKETING + BUSINESS DATA
-
-Our long-term direction is to make business technology more:
-
-Connected. Intelligent. Automated. Measurable.
-
-🤝 WORK WITH ONESPHERE
-
-Have a business problem?
-
-Don't start with:
-
-"Can you build me a website?"
-
-Start with:
-
-"Here is my business problem."
-
-We'll figure out the technology.
-
-Typical engagements
-
-Custom Software · Web Development · AI Automation · Digital Marketing · Business Systems · IT Consulting
+# 🧩 Our Technology Universe
 
 <div align="center">
 
-ONESPHERE TECH
+### Frontend
 
-One Business. One Technology Partner.
+`Next.js` `React` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind CSS`
 
-Build. Automate. Market. Scale.
+### Backend & Data
 
-<br>
+`Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL` `Python`
 
-YOUR BUSINESS • OUR TECHNOLOGY
+### Cloud, DevOps & Tools
+
+`Vercel` `GitHub` `Git` `Docker` `Postman` `Figma`
+
+### AI & Automation
+
+`AI Solutions` • `Workflow Automation` • `API Integration` • `Business Intelligence`
+
+</div>
+
+---
+
+# 🚀 Featured Solutions
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏢 Business Management Platform
+
+**Custom internal software**
+
+> Centralize operations, customers, employees, reports and workflows in one platform.
+
+`Next.js` `MongoDB` `Auth` `Dashboard`
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Engine
+
+**Conversion-focused commerce**
+
+> Product management, orders, customers, payments and analytics built around business needs.
+
+`Next.js` `MongoDB` `Payments` `Analytics`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Business Assistant
+
+**Automated business operations**
+
+> Connect AI with real business data, repetitive workflows and customer communication.
+
+`AI` `APIs` `Automation` `RAG`
+
+</td>
+
+<td width="50%">
+
+### 📣 Growth & Lead System
+
+**Marketing → Lead → Customer**
+
+> Connect landing pages, advertising, lead capture, follow-up and analytics into one workflow.
+
+`Meta Ads` `Landing Page` `CRM` `Automation`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛰️ How We Work
+
+```text
+01  DISCOVER
+
+    ↓
+
+    Understand the business, users and actual problem.
+
+
+02  DESIGN
+
+    ↓
+
+    Turn the problem into a practical digital strategy.
+
+
+03  BUILD
+
+    ↓
+
+    Develop the website, application, system or automation.
+
+
+04  CONNECT
+
+    ↓
+
+    Integrate APIs, AI, marketing and business workflows.
+
+
+05  LAUNCH
+
+    ↓
+
+    Deploy, test, measure and optimize.
+
+
+06  SCALE
+
+    ↓
+
+    Continuous improvement as the business grows.
+```
+
+---
+
+# 📊 OneSphere Engineering
+
+Our engineering approach focuses on building practical, scalable and maintainable digital systems.
+
+### Core Engineering Areas
+
+* Full-stack web development
+* Modern JavaScript architecture
+* Database-driven applications
+* API development and integration
+* Cloud deployment
+* AI integration
+* Business automation
+* Digital marketing technology
+* Analytics and tracking
+* Internal business systems
+
+---
+
+# 🟦 Contribution Activity
+
+OneSphere Tech continuously develops and experiments with new software, automation systems, business tools and technology solutions.
+
+---
+
+# 💡 Built for Real Businesses
+
+<div align="center">
+
+|    Startup    |           SME          |   Enterprise   |     Creator    |
+| :-----------: | :--------------------: | :------------: | :------------: |
+|       🚀      |           🏢           |       🌍       |       🎨       |
+| MVPs & Launch | Digital Transformation | Custom Systems | Personal Brand |
+
+</div>
+
+---
+
+# 🔭 What We're Exploring
+
+```text
+AI Agents                  ████████████████████
+
+Business Automation       ███████████████████
+
+AI-powered Web Apps       ██████████████████
+
+Digital Growth Systems    █████████████████
+
+Business Intelligence     ███████████████
+
+Cloud & Infrastructure    █████████████
+```
+
+**Our direction:** make business technology increasingly **connected, intelligent, automated, and measurable.**
+
+---
+
+# 🤝 Work With OneSphere
+
+Have a business problem?
+
+Don't start by asking:
+
+> *"Can you build me a website?"*
+
+Start with:
+
+> **"Here is my business problem."**
+
+We'll figure out the technology.
+
+### Typical engagements
+
+`Custom Software` · `Web Development` · `AI Automation` · `Digital Marketing` · `Business Systems` · `IT Consulting`
+
+---
+
+<div align="center">
+
+## 🌐 OneSphere Tech
+
+### **One Business. One Technology Partner.**
+
+**Build. Automate. Market. Scale.**
 
 </div>
