@@ -1,90 +1,73 @@
 <div align="center">
 
+ONESPHERE TECH
 
-# OneSphere Tech
+YOUR BUSINESS • OUR TECHNOLOGY
 
-### `YOUR BUSINESS  •  OUR TECHNOLOGY`
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+%26+App+Development;AI+%26+Business+Automation;Digital+Marketing+%26+Growth;Custom+Business+Solutions;Technology+%26+IT+Consulting" alt="OneSphere Tech services">
+Digital solutions for businesses that want to build, automate, market, and scale.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://github.com/OneSphere-Tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-0B1020?style=for-the-badge&logo=facebook&logoColor=38BDF8)](https://www.facebook.com/)
-
-<br><br>
-
-**We build digital systems that help businesses launch, automate, market, and scale.**
+WEB DEVELOPMENT · AI & AUTOMATION · DIGITAL MARKETING · BUSINESS SOLUTIONS · IT SUPPORT
 
 </div>
 
----
+◈ WHO WE ARE
 
-## ◈ The OneSphere Vision
+OneSphere Tech is a technology and business solutions company focused on turning business problems into practical digital systems.
 
-> **OneSphere Tech is a technology and business solutions company built around one simple idea:**
-> businesses should not need five different partners to solve five different digital problems.
+We work across software development, AI, automation, digital marketing, and IT to help businesses create a stronger digital foundation.
 
-We bring **software development + AI + automation + marketing + IT solutions** together under one technology partner.
+One problem. One strategy. One technology partner.
 
-```text
-                 ┌──────────────────────────────┐
-                 │          BUSINESS             │
-                 │       IDEA / PROBLEM          │
-                 └──────────────┬───────────────┘
-                                │
-                    ┌───────────▼───────────┐
-                    │     ONESPHERE TECH     │
-                    └───────────┬───────────┘
-                                │
-        ┌──────────────┬────────┼────────┬──────────────┐
-        ▼              ▼        ▼        ▼              ▼
-     BUILD           AI       AUTOMATE  MARKET        SUPPORT
-        │              │        │        │              │
-        └──────────────┴────────┼────────┴──────────────┘
-                                ▼
-                     ┌────────────────────┐
-                     │  BUSINESS GROWTH   │
-                     └────────────────────┘
-```
-
----
-
-# ⚡ What We Build
+⚡ OUR SERVICES
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web & App Development
+🌐 Web & App Development
 
-Modern digital products designed around the actual workflow of a business.
+Modern, scalable digital products built around real business requirements.
 
-- Corporate websites
-- SaaS platforms
-- E-commerce
-- Custom web applications
-- Admin dashboards
-- Customer portals
-- Booking systems
-- Internal business tools
+Business & corporate websites
+
+Custom web applications
+
+E-commerce platforms
+
+SaaS products
+
+Admin dashboards
+
+Customer portals
+
+Booking & management systems
+
+API integrations
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation
+🤖 AI & Business Automation
 
-Turn repetitive work into automated systems.
+Connect AI and automation to everyday business operations.
 
-- AI assistants
-- Business workflow automation
-- Lead automation
-- API integrations
-- CRM workflows
-- Chatbots
-- Document/data automation
-- AI-powered internal tools
+AI assistants
+
+AI-powered business tools
+
+Workflow automation
+
+Lead automation
+
+Chatbots
+
+API automation
+
+Data processing
+
+CRM & communication workflows
 
 </td>
 </tr>
@@ -92,239 +75,290 @@ Turn repetitive work into automated systems.
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Digital Marketing
+📈 Digital Marketing
 
-Build visibility, acquire customers, and connect marketing with technology.
+Technology-driven marketing systems designed to build visibility and generate leads.
 
-- Meta advertising
-- Social media strategy
-- Lead generation
-- Landing pages
-- Conversion tracking
-- Campaign systems
-- Analytics
-- Marketing automation
+Facebook & Instagram marketing
+
+Meta advertising
+
+Lead generation
+
+Landing pages
+
+Conversion tracking
+
+Campaign setup
+
+Analytics
+
+Marketing automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Business & IT Solutions
+🛠️ Business & IT Solutions
 
-Technology support beyond just building a website.
+Practical technology support for businesses at every stage.
 
-- Business process digitization
-- IT support
-- Cloud deployment
-- System integrations
-- Technical consulting
-- Database solutions
-- Digital transformation
-- Ongoing maintenance
+Business process digitization
+
+Custom business software
+
+IT support
+
+Cloud deployment
+
+Database solutions
+
+System integration
+
+Technical consulting
+
+Digital transformation
 
 </td>
 </tr>
 </table>
 
----
+🧠 HOW WE THINK
 
-# 🧩 Our Technology Universe
+                  BUSINESS PROBLEM
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     DISCOVER    │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │     STRATEGY    │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │      BUILD      │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │   AUTOMATION    │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │     LAUNCH      │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │      SCALE      │
+                └─────────────────┘
 
-<div align="center">
+We don't believe every business needs complicated technology.
 
-### Frontend
+We believe every business needs the right technology for the right problem.
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind" alt="Frontend technologies">
+🚀 WHAT WE CAN BUILD
 
-### Backend & Data
+Solution
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python" alt="Backend technologies">
+Business Purpose
 
-### Cloud, DevOps & Tools
+🏢 Business Management Systems
 
-<img src="https://skillicons.dev/icons?i=vercel,github,git,docker,postman,figma" alt="Cloud and development tools">
+Digitize daily operations
 
-### AI & Automation
+🛒 E-commerce Platforms
 
-`AI Solutions` • `Workflow Automation` • `API Integration` • `Business Intelligence`
+Sell and manage products online
 
-</div>
+📊 Admin Dashboards
 
----
+Monitor operations and business data
 
-# 🚀 Featured Solutions
+👥 Customer Management Systems
 
-<table>
-<tr>
-<td width="50%">
+Organize customer information and workflows
 
-### 🏢 Business Management Platform
+📅 Booking Systems
 
-**Custom internal software**
+Manage appointments and reservations
 
-> Centralize operations, customers, employees, reports and workflows in one platform.
+📦 Inventory Systems
 
-`Next.js` `MongoDB` `Auth` `Dashboard`
+Track products and stock
 
-</td>
-<td width="50%">
+🎓 Education Platforms
 
-### 🛒 E-Commerce Engine
+Manage students, courses and learning
 
-**Conversion-focused commerce**
+🤖 AI Assistants
 
-> Product management, orders, customers, payments and analytics built around business needs.
+Automate communication and repetitive tasks
 
-`Next.js` `MongoDB` `Payments` `Analytics`
+🔄 Workflow Automation
 
-</td>
-</tr>
+Reduce manual business processes
 
-<tr>
-<td width="50%">
+📣 Lead Generation Systems
 
-### 🤖 AI Business Assistant
+Connect marketing with sales
 
-**Automated business operations**
+🔗 API Integrations
 
-> Connect AI with real business data, repetitive workflows and customer communication.
+Connect business tools and platforms
 
-`AI` `APIs` `Automation` `RAG`
+📈 Analytics Systems
 
-</td>
-<td width="50%">
+Turn data into useful business insights
 
-### 📣 Growth & Lead System
+🧩 TECHNOLOGY
 
-**Marketing → Lead → Customer**
+Frontend
 
-> Connect landing pages, advertising, lead capture, follow-up and analytics into one workflow.
+Next.js · React · JavaScript · TypeScript · HTML · CSS · Tailwind CSS
 
-`Meta Ads` `Landing Page` `CRM` `Automation`
+Backend & Data
 
-</td>
-</tr>
-</table>
+Node.js · Express.js · MongoDB · MySQL · PostgreSQL · REST APIs
 
----
+AI & Automation
 
-# 🛰️ How We Work
+AI Solutions · AI Agents · Workflow Automation · API Integration · Business Automation
 
-```text
-01  DISCOVER
-    ↓
-    Understand the business, users and actual problem.
+Cloud & Tools
 
-02  DESIGN
-    ↓
-    Turn the problem into a practical digital strategy.
+Vercel · GitHub · Git · Docker · Postman · Figma
 
-03  BUILD
-    ↓
-    Develop the website, application, system or automation.
+🛰️ OUR DELIVERY MODEL
 
-04  CONNECT
-    ↓
-    Integrate APIs, AI, marketing and business workflows.
+01 — DISCOVER
 
-05  LAUNCH
-    ↓
-    Deploy, test, measure and optimize.
+Understand the business, users, goals, and actual problem.
 
-06  SCALE
-    ↓
-    Continuous improvement as the business grows.
-```
+02 — DESIGN
 
----
+Create a practical technology and business strategy.
 
-# 📊 OneSphere Engineering
+03 — BUILD
 
-<div align="center">
+Develop the website, application, system, or automation.
 
-<img src="https://github-readme-stats.vercel.app/api?username=OneSphere-Tech&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" height="165" alt="GitHub statistics">
+04 — CONNECT
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneSphere-Tech&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Top languages">
+Integrate AI, APIs, databases, marketing platforms, and existing tools.
 
-</div>
+05 — LAUNCH
 
----
+Deploy, test, measure, and optimize.
 
-# 🟦 Contribution Activity
+06 — SCALE
 
-<div align="center">
+Continue improving the system as the business grows.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OneSphere-Tech&bg_color=0B1020&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="OneSphere Tech contribution graph">
+💼 WHO WE WORK WITH
 
-</div>
+STARTUPS       →  MVPs, websites, SaaS & launch systems
 
-> **GitHub contribution animation:** this repository includes a GitHub Action that can generate a contribution-snake animation automatically.
+SMALL BUSINESS →  Digitization, automation & online growth
 
-<div align="center">
+SMEs            →  Custom software, dashboards & integrations
 
-<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+ENTERPRISES     →  Business systems & technology solutions
 
-</div>
+CREATORS        →  Websites, portfolios & digital platforms
 
----
+PROFESSIONALS   →  Personal brands, booking & business systems
 
-# 💡 Built for Real Businesses
+🔥 OUR CORE PRINCIPLES
 
-<div align="center">
+Principle
 
-| Startup | SME | Enterprise | Creator |
-|:---:|:---:|:---:|:---:|
-| 🚀 | 🏢 | 🌍 | 🎨 |
-| MVPs & Launch | Digital Transformation | Custom Systems | Personal Brand |
+Meaning
 
-</div>
+SIMPLE
 
----
+Technology should be easy to understand and use
 
-# 🔭 What We're Exploring
+SCALABLE
 
-```text
-AI Agents                  ████████████████████
-Business Automation       ███████████████████
-AI-powered Web Apps       ██████████████████
-Digital Growth Systems    █████████████████
-Business Intelligence     ███████████████
-Cloud & Infrastructure    █████████████
-```
+Solutions should grow with the business
 
-**Our direction:** make business technology increasingly **connected, intelligent, automated, and measurable.**
+AUTOMATED
 
----
+Repetitive work should be reduced
 
-# 🤝 Work With OneSphere
+CONNECTED
+
+Business tools should work together
+
+MEASURABLE
+
+Results should be trackable
+
+PRACTICAL
+
+Technology must solve a real problem
+
+🌍 FROM IDEA TO DIGITAL SYSTEM
+
+IDEA
+ │
+ ├──► WEBSITE
+ │
+ ├──► WEB APPLICATION
+ │
+ ├──► E-COMMERCE
+ │
+ ├──► BUSINESS SOFTWARE
+ │
+ ├──► AI AUTOMATION
+ │
+ ├──► DIGITAL MARKETING
+ │
+ └──► IT & TECHNOLOGY SUPPORT
+             │
+             ▼
+      DIGITAL BUSINESS
+             │
+             ▼
+      GROWTH & SCALE
+
+🔭 WHAT WE'RE BUILDING TOWARD
+
+We are exploring the intersection of:
+
+AI + SOFTWARE + AUTOMATION + MARKETING + BUSINESS DATA
+
+Our long-term direction is to make business technology more:
+
+Connected. Intelligent. Automated. Measurable.
+
+🤝 WORK WITH ONESPHERE
 
 Have a business problem?
 
-Don't start by asking:
+Don't start with:
 
-> *"Can you build me a website?"*
+"Can you build me a website?"
 
 Start with:
 
-> **"Here is my business problem."**
+"Here is my business problem."
 
 We'll figure out the technology.
 
-### Typical engagements
+Typical engagements
 
-`Custom Software` · `Web Development` · `AI Automation` · `Digital Marketing` · `Business Systems` · `IT Consulting`
-
----
+Custom Software · Web Development · AI Automation · Digital Marketing · Business Systems · IT Consulting
 
 <div align="center">
 
-## 🌐 OneSphere Tech
+ONESPHERE TECH
 
-### **One Business. One Technology Partner.**
+One Business. One Technology Partner.
 
-**Build. Automate. Market. Scale.**
+Build. Automate. Market. Scale.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:06B6D4,100:8B5CF6&height=120&section=footer" width="100%" alt="OneSphere footer">
+YOUR BUSINESS • OUR TECHNOLOGY
 
 </div>
